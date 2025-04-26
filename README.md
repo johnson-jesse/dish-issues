@@ -1,4 +1,4 @@
-Official repository to track issues related to [@fizzog/dish](https://www.npmjs.com/package/@fizzog/dish?activeTab=readme) or @fizzog/create-dish
+Official repository to track issues related to [@fizzog/dish](https://www.npmjs.com/package/@fizzog/dish?activeTab=readme) and @fizzog/create-dish
 
 # [D.I.S.H. - Dynamic Internationalization Scanner and Harvester](https://www.npmjs.com/package/@fizzog/dish?activeTab=readme)
 
